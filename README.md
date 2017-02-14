@@ -2,4 +2,4 @@
 
 Hi All,
 
-  This is Jinchuan, I'm just testing the how to set up and use github!
+  This is Jinchuan, welcome to our fun project! Let's do it!!!!!
